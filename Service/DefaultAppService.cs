@@ -2,6 +2,6 @@ public class DefaultAppService: IAppService
 {
     IResponse Handle(IRequest request)
     {
-        return new DefaultResponse();
+        return new DefaultResponse("default response");
     }
 }
