@@ -1,1 +1,4 @@
-aaaa
+public interface IDefaultInterface
+{
+    
+}
